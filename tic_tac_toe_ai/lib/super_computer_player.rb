@@ -3,6 +3,10 @@ require_relative 'tic_tac_toe_node'
 class SuperComputerPlayer < ComputerPlayer
   def move(game, mark)
   end
+
+  def foo
+
+  end
 end
 
 if __FILE__ == $PROGRAM_NAME
